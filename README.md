@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yassine
-- 👀 I’m interested in pure mathematics,physics,electrical ,electronics,embedded system,control system and computer engineering ,I like also competitive programming
+- 👀 I’m interested in pure mathematics,physics,electrical ,electronics,embedded system,control system and computer engineering ,I like also competitive programming and hardware hacking
 - 🌱 I’m currently an electronics and embedded systems engineering student
 - 📫 How to reach me : email: rouchadyassine20@gmail.com,Linkedin: https://www.linkedin.com/in/yassine-rouchad-841725234/
 - 
