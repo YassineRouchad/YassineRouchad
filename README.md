@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Yassine
-- 👀 I’m interested in pure mathematics,physics,electrical ,electronics,embedded system,control system and computer engineering ,I like also competitive programming and I want to learn more about hardware hacking
-- 🌱 I’m currently an electronics and embedded systems engineering student
-- 📫 How to reach me : email: rouchadyassine20@gmail.com,Linkedin: https://www.linkedin.com/in/yassine-rouchad-841725234/
-- 
+- 🌱 I’m a DFT engineer working for a company that provides ASIC Design turnkey services. 
+- 📫 How to reach out : email: rouchadyassine@gmail.com,Linkedin: https://www.linkedin.com/in/yassine-rouchad-841725234/
+  
